@@ -7,7 +7,8 @@ This repository contains two Jupyter notebooks that explore different machine le
 - `SPAM.ipynb`: Spam classification using TF-IDF vectorization and models like Logistic Regression and XGBoost.
 - `SPAM_Prediction.ipynb`: Spam classification using spaCy for text preprocessing and Naive Bayes classification.
 
-Notebook 1: SPAM.ipynb
+## Notebook 1: SPAM.ipynb
+
 Goal: Spam email classification using machine learning models.
 
 Steps:
